@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Wyoming, US",
+  "export_job_id": "892585be-f0a9-4f1f-8f24-c6e648612cfc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 915229,
+  "location_name": "Wyoming",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-wyoming-us-sample-915229",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/915229/beamstation_915229_restaurants-us-wy_SAMPLE_DIST.csv",
+  "sample_pct": 25.0,
+  "sample_records": 1,
+  "sample_sha256": "4c6fbeed483332e50d176beaf9b606cfc0f4faaee511305aa501c63986cb7944",
+  "sample_size_bytes": 19285,
+  "total_records": 4,
+  "updated_at": "2026-04-08T03:50:58.424653+00:00"
+}
