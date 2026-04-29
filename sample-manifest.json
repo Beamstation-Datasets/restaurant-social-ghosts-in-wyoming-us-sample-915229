@@ -1,12 +1,12 @@
 {
-  "export_job_id": "498eb9e9-31bd-47e3-9e16-f929e52b9576",
+  "export_job_id": "b172c111-9ed0-422d-83b7-c60fd9c75d68",
   "id_short": 915229,
-  "published_at": "2026-04-19T07:53:55Z",
+  "published_at": "2026-04-29T19:02:24Z",
   "repo_name": "restaurant-social-ghosts-in-wyoming-us-sample-915229",
   "sample_asset_name": "beamstation_915229_restaurants-us-wy_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/915229/beamstation_915229_restaurants-us-wy_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "4c6fbeed483332e50d176beaf9b606cfc0f4faaee511305aa501c63986cb7944",
-  "sample_size_bytes": 19285,
-  "total_records": 4
+  "sample_sha256": "3df661bebe1d626ad100a9c80bff29162aadcc2abd6499bbaf72e248ae1258d4",
+  "sample_size_bytes": 19758,
+  "total_records": 9
 }
